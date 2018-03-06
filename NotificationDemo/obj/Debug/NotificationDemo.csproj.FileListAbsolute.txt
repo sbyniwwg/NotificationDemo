@@ -1,0 +1,10 @@
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\bin\Debug\NotificationDemo.exe.config
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\bin\Debug\NotificationDemo.exe
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\bin\Debug\NotificationDemo.pdb
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\obj\Debug\NotificationDemo.csprojResolveAssemblyReference.cache
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\obj\Debug\NotificationDemo.Form1.resources
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\obj\Debug\NotificationDemo.Form2.resources
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\obj\Debug\NotificationDemo.Properties.Resources.resources
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\obj\Debug\NotificationDemo.csproj.GenerateResource.Cache
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\obj\Debug\NotificationDemo.exe
+F:\Documents\VSProject\NotificationDemo\NotificationDemo\obj\Debug\NotificationDemo.pdb
